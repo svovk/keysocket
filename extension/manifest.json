@@ -233,6 +233,10 @@
     {
       "matches": ["*://*/*.mp3", "*://*/*.mp3?*"],
       "js": ["shared.js", "keysocket-builtin-player.js"]
+    },
+    {
+      "matches": ["*://*.stepik.org/lesson/*"],
+      "js": ["shared.js","keysocket-stepik.js"]
     }
   ]
 }

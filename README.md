@@ -39,6 +39,7 @@ All the best, Boris.
    * Songza
    * SoundCloud
    * Spotify
+   * Stepik.org
    * Superplayer.fm
    * Synology Audio Station v.5
    * thesixtyone
