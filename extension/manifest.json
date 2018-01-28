@@ -237,6 +237,10 @@
     {
       "matches": ["*://*.stepik.org/lesson/*"],
       "js": ["shared.js","keysocket-stepik.js"]
+    },
+    {
+      "matches": ["*://*.coursera.org/*"],
+      "js": ["shared.js","keysocket-coursera.js"]
     }
   ]
 }

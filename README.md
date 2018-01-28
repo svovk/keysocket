@@ -13,6 +13,7 @@ All the best, Boris.
 **Supported sites:**
    * Amazon music player
    * Bop
+   * Coursera
    * Deezer
    * Digitally Imported (di.fm)
    * Gaana.com
